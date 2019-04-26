@@ -15,6 +15,9 @@ Our objective is to get experience with editing files on GitHub and saving those
 Some words in the mad-lib are missing. Fill them in with the appropriate type of word.
 
 **[NOUN]**: A word representing a person, place or thing.
+
 **[VERB]**: An word representing an action that can be performed.
+
 **[ADJECTIVE]**: A word that describes a noun.
+
 **[ADVERB]**: A word that describes how a verb is performed.
