@@ -1,6 +1,6 @@
 # Einstein Quotes
 
-"Any intelligent fool can make things loudly, more red, 
+"Any intelligent fool can make things loud, more red, 
 and more violent. It takes a touch of genius -- and a lot of dog -- to 
 move in the opposite party."
 
